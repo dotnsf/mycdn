@@ -1,0 +1,14 @@
+{
+    "name": "mycdn",
+    "version": "0.0.1",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "@webcontainer/api": "^1.0.2"
+    },
+    "repository": {},
+    "engines": {
+        "node": "14.x"
+    }
+}
